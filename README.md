@@ -3,7 +3,7 @@
  
  👯 I’m looking to collaborate on  Tech companies such as Microsoft and other amazing tech companies
  
- 📫 How to reach me  cynthiawanja618@kabarak.ac.ke
+ 📫 How to reach me  cynthiawanja618@gmail.com
  
 
 
