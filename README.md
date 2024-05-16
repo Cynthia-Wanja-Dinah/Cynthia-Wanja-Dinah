@@ -1,5 +1,5 @@
 ### Hi there 👋  my name is Wanja Ireri
-  Data science enthusiasm 
+  Data science enthusiast
  
  👯 I’m looking to collaborate on amazing tech companies
  
