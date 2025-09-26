@@ -1,6 +1,3 @@
-### Hi there 👋  my name is Wanja Ireri
-  Data science enthusiast
- 
 <h1 align="center">Hi 👋, I'm Cynthia wanja ireri</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
