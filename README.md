@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynthia-wanja-dinah&label=Profile%20views&color=0e75b6&style=flat" alt="cynthia-wanja-dinah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cynthia-wanja-dinah" alt="cynthia-wanja-dinah" /></a> </p>
-
 - 🌱 I’m currently learning **Jac programming language**
 
 - 💬 Ask me about **Python and jac**
